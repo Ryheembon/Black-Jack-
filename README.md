@@ -84,10 +84,3 @@ The implementation includes several safeguards:
 - Input validation for player decisions
 - Clear game state management to prevent invalid plays
 
-## Future Enhancements
-Potential improvements could include:
-- Betting system implementation
-- Multiplayer support
-- Graphical user interface
-- Card splitting functionality
-- Additional rule variations
